@@ -17,7 +17,7 @@ html{
 }
 html, body {
   font: var(--font);
-  background-color: black;
+  background-color: peru;
   color: var(--darkmode-fontColor);
   overflow-x: hidden;
   /* height: 100%; */
@@ -204,7 +204,7 @@ div>p>span{
 
 
 
-/* 최소 768 에서 최대 991
+/* 최소 768 ?�서 최�? 991
 @media (min-width: 692px) and (max-width: 991px){
   section#brand{
     height: 120vh;
@@ -536,7 +536,7 @@ section#news{
   transform: scale(1.02);
 }
 
-/* section news 위치 및 텍스트 디자인 */
+/* section news ?�치 �??�스???�자??*/
 .news-carousel p.responsive-text{
   position: relative;
   color: var(--darkmode-fontColor);
