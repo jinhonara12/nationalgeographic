@@ -1,2 +1,2 @@
 # nationalgeographic
-responsive website portfolid
+responsive website portfolio
