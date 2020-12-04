@@ -19,7 +19,7 @@ $(function(){
     })
     
     
-
+// df
 
     // list 전체 폭 사이즈 설정(css에서 설정 완료)
     // $carouselList.css({'width':80/$carouselListNum + '%'});
